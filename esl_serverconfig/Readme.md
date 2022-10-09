@@ -6,4 +6,4 @@ Here you can find the official CS:GO ESL Serverconfigs. The configs were last up
 
 ## Change Log
 
--
+- fixed scoreboard freeze on half time
